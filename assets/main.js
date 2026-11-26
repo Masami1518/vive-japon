@@ -36,7 +36,7 @@
   var capTx = document.querySelector('[data-cap-tx]');
   var bar = document.querySelector('.hero-bar i');
   if (slides.length > 1) {
-    var i = 0, dur = 6000;
+    var i = 0, dur = 2600;
     var show = function (n) {
       slides[i].classList.remove('is-on');
       i = n;

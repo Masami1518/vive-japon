@@ -118,9 +118,9 @@ p { margin: 0 0 1em; text-wrap: pretty; }
   overflow: hidden; isolation: isolate;
 }
 .hero-slides { position: absolute; inset: 0; z-index: -2; }
-.hero-slides figure { position: absolute; inset: 0; margin: 0; opacity: 0; transition: opacity 1.6s ease; }
+.hero-slides figure { position: absolute; inset: 0; margin: 0; opacity: 0; transition: opacity .7s ease; }
 .hero-slides figure.is-on { opacity: 1; }
-.hero-slides img { width: 100%; height: 100%; object-fit: cover; transform: scale(1.08); transition: transform 8s linear; }
+.hero-slides img { width: 100%; height: 100%; object-fit: cover; transform: scale(1.06); transition: transform 3.4s linear; }
 .hero-slides figure.is-on img { transform: scale(1); }
 .hero::after { /* legibility shade: indigo, flat at bottom */
   content: ""; position: absolute; inset: 0; z-index: -1;
@@ -331,3 +331,12 @@ footer .credits { margin-top: 1rem; opacity: .85; }
 :lang(ja) h1, :lang(ja) h2, :lang(ja) h3 { word-break: auto-phrase; letter-spacing: 0; line-height: 1.3; }
 :lang(ja) h3 { font-family: var(--body); font-weight: 900; }
 :lang(ja) body { line-break: strict; }
+
+/* ---------- portrait: cut-out photo sitting directly on the paper ---------- */
+.portrait { margin: 0; position: relative; max-width: 440px; width: 100%; border-bottom: 2px solid var(--sumi); }
+.portrait img { width: 100%; height: auto; display: block; }
+.portrait figcaption {
+  position: absolute; left: 0; bottom: 14px;
+  background: var(--sumi); color: #fff; font-size: .78rem; padding: 6px 12px 5px; display: flex; gap: 8px; align-items: baseline;
+}
+.portrait figcaption b { font-family: var(--display); font-weight: 400; color: var(--kincha); }
