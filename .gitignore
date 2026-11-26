@@ -1,0 +1,7 @@
+# Only the public site is published. Notes, form script and README stay local
+# (they contain the WhatsApp number, which should not be on the public site).
+PRODUCT.md
+README.md
+google-form/
+.impeccable/
+.DS_Store
