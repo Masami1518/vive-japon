@@ -35,12 +35,13 @@ body.plan { min-height: 100svh; background: var(--washi); }
 }
 .progress::before { content: ""; position: absolute; left: -8px; right: -8px; top: 0; height: 8px; background: var(--wood); border-radius: 4px; box-shadow: 0 3px 6px -2px rgba(0, 0, 0, .5); }
 .progress span {
-  height: 34px; background: rgba(244, 241, 234, .22); transform-origin: 50% 0;
-  transition: background-color .5s var(--ease), height .5s var(--ease);
+  height: 52px; background: rgba(244, 241, 234, .22); transform-origin: 50% 0;
+  transform: scaleY(.65);
+  transition: background-color .5s var(--ease), transform .5s var(--ease);
 }
 .progress span.done { background: var(--ai); }
-.progress span.now { background: var(--shu); height: 52px; animation: hang .9s var(--ease) both; }
-@media (min-width: 960px) { .progress { top: 70px; } .progress span { height: 46px; } .progress span.now { height: 72px; } }
+.progress span.now { background: var(--shu); transform: scaleY(1); animation: hang .9s var(--ease) both; }
+@media (min-width: 960px) { .progress { top: 70px; } .progress span { height: 72px; } }
 .stage-copy { position: absolute; left: var(--gutter); right: var(--gutter); bottom: clamp(20px, 5vh, 56px); }
 .stage-copy .no { font-family: var(--display); color: var(--kincha); font-size: 1rem; display: flex; gap: 10px; align-items: baseline; }
 .stage-copy .no small { font-family: var(--body); color: #e8ecf5; font-size: .78rem; letter-spacing: .03em; }
