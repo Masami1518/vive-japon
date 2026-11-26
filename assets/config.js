@@ -1,7 +1,6 @@
 /*
-  Pega aquí los enlaces de tus Google Forms (los imprime create_forms.gs).
-  Googleフォームを作ったら、ここに3つのURLを貼るだけでサイト全体のボタンが切り替わります。
-  空欄のままだと、ボタンはページ下の連絡先（#contacto）へ移動します。
+  GoogleフォームのURL（控え）。サイトのボタンは今はサイト内フォーム（plan/）を開き、
+  回答はそこから下のGoogleフォームに送られます。
 */
 window.VIVE_JAPON = {
   forms: {

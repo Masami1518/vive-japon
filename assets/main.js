@@ -5,16 +5,8 @@
   var lang = root.getAttribute('lang') || 'es';
   var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-  /* 1. Google Form links: fill in assets/config.js once the forms exist */
-  var cfg = window.VIVE_JAPON || {};
-  var formUrl = (cfg.forms || {})[lang];
-  if (formUrl) {
-    document.querySelectorAll('[data-form]').forEach(function (a) {
-      a.href = formUrl;
-      a.target = '_blank';
-      a.rel = 'noopener';
-    });
-  }
+  /* buttons open the on-site step form (plan/), which posts into the Google Form */
+  document.querySelectorAll('[data-form]').forEach(function (a) { a.href = 'plan/'; });
 
   /* 2. Header turns solid after the hero */
   var top = document.querySelector('.top');
