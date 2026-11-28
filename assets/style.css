@@ -370,3 +370,4 @@ footer .credits { margin-top: 1rem; opacity: .85; }
 .tours-hero .head-noren > span { background: var(--washi); }
 .tours-cta h2 { font-size: clamp(1.8rem, 4vw, 3rem); }
 .tours-cta p { color: #3d3218; margin: .8rem 0 1.6rem; }
+@media (min-width: 900px) { .tour:nth-child(even) { grid-template-columns: 1.05fr 1fr; } .tour:nth-child(even) .tour-widget { order: -1; } }

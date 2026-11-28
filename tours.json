@@ -2,7 +2,16 @@
   "partner_id": "FKH3YYZ",
   "currency": "JPY",
   "categories": {
-    "aventura": { "es": "Aventura", "ja": "アクティビティ", "en": "Adventure" }
+    "aventura": {
+      "es": "Aventura",
+      "ja": "アクティビティ",
+      "en": "Adventure"
+    },
+    "gastronomia": {
+      "es": "Gastronomía y bebida",
+      "ja": "食・お酒",
+      "en": "Food & drink"
+    }
   },
   "tours": [
     {
@@ -21,14 +30,64 @@
         "en": "One of the most fun ways to see Tokyo: you drive a kart on real downtown streets, guide in front and your group behind. Perfect with friends or as a couple."
       },
       "points": {
-        "es": ["Cruce de Shibuya, Torre de Tokio y más", "Con guía y en grupo reducido", "Fotos de la experiencia incluidas"],
-        "ja": ["渋谷スクランブル交差点、東京タワーなど", "ガイド付き・少人数", "体験中の写真付き"],
-        "en": ["Shibuya Crossing, Tokyo Tower and more", "Guided, small group", "Photos of your ride included"]
+        "es": [
+          "Cruce de Shibuya, Torre de Tokio y más",
+          "Con guía y en grupo reducido",
+          "Fotos de la experiencia incluidas"
+        ],
+        "ja": [
+          "渋谷スクランブル交差点、東京タワーなど",
+          "ガイド付き・少人数",
+          "体験中の写真付き"
+        ],
+        "en": [
+          "Shibuya Crossing, Tokyo Tower and more",
+          "Guided, small group",
+          "Photos of your ride included"
+        ]
       },
       "note": {
         "es": "Para conducir necesitas el permiso internacional (Convención de Ginebra 1949) o un carné japonés. Revisa los requisitos de la actividad antes de reservar.",
         "ja": "運転には国際運転免許証（1949年ジュネーブ条約）または日本の運転免許が必要です。予約前にツアーの条件をご確認ください。",
         "en": "To drive you need an International Driving Permit (1949 Geneva Convention) or a Japanese licence. Check the activity's requirements before booking."
+      }
+    },
+    {
+      "gyg_id": 927754,
+      "link": "https://gyg.me/eQ5mTrHC",
+      "category": "gastronomia",
+      "featured": true,
+      "title": {
+        "es": "Cata de sake en Asakusa con un especialista",
+        "ja": "浅草で専門家と楽しむ日本酒テイスティング",
+        "en": "Sake tasting in Asakusa with a specialist"
+      },
+      "why": {
+        "es": "Si quieres entender de verdad el sake, esta es la experiencia. En WASAKE, en pleno Asakusa, un especialista te guía por hasta 10 variedades y te explica cómo se elaboran y cómo disfrutarlas.",
+        "ja": "日本酒をちゃんと知りたいなら、この体験。浅草のWASAKEで、専門家の案内のもと最大10種類を飲み比べ、造り方や楽しみ方まで教えてもらえます。",
+        "en": "If you want to truly understand sake, this is the one. At WASAKE in the heart of Asakusa, a specialist guides you through up to 10 varieties and explains how they are made and best enjoyed."
+      },
+      "points": {
+        "es": [
+          "Hasta 10 sakes de más de 50 marcas",
+          "Con especialista, en un ambiente relajado",
+          "En Asakusa: combínalo con el templo Sensō-ji"
+        ],
+        "ja": [
+          "50以上の銘柄から最大10種類を飲み比べ",
+          "専門家の案内で、落ち着いた雰囲気",
+          "浅草なので浅草寺観光と組み合わせやすい"
+        ],
+        "en": [
+          "Up to 10 sakes from 50+ labels",
+          "Led by a specialist, relaxed atmosphere",
+          "In Asakusa: pair it with Sensō-ji temple"
+        ]
+      },
+      "note": {
+        "es": "En Japón solo se puede beber alcohol a partir de los 20 años.",
+        "ja": "日本では20歳未満の飲酒は法律で禁止されています。",
+        "en": "In Japan you must be 20 or older to drink alcohol."
       }
     }
   ]
