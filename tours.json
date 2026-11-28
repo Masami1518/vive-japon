@@ -17,6 +17,11 @@
       "ja": "東京発の日帰りツアー",
       "en": "Day trips from Tokyo"
     },
+    "en-osaka": {
+      "es": "Planes en Osaka",
+      "ja": "大阪で楽しむ",
+      "en": "Things to do in Osaka"
+    },
     "desde-osaka": {
       "es": "Excursiones desde Osaka",
       "ja": "大阪発の日帰りツアー",
@@ -174,6 +179,77 @@
         "es": "Para ver nieve, lo ideal es de diciembre a marzo. Hasta el parque se camina un sendero de montaña: lleva calzado cómodo y ropa de abrigo en invierno.",
         "ja": "雪景色を見るなら12月〜3月がおすすめ。公苑までは山道を歩くので、歩きやすい靴と、冬は防寒着をご用意ください。",
         "en": "For snow, December to March is best. You walk a mountain trail to the park: bring comfortable shoes, and warm clothes in winter."
+      }
+    },
+    {
+      "gyg_id": 1430490,
+      "link": "https://gyg.me/DQ9iFKHi",
+      "category": "en-osaka",
+      "featured": true,
+      "title": {
+        "es": "Sumo en Osaka con exluchadores profesionales",
+        "ja": "大阪で元プロ力士の相撲ショー体験",
+        "en": "Sumo show in Osaka with former pro wrestlers"
+      },
+      "why": {
+        "es": "Si tu viaje no coincide con un torneo, esta es la mejor forma de vivir el sumo de cerca. Exluchadores profesionales te explican la historia y los rituales, y si te animas, ¡puedes subir al ring!",
+        "ja": "本場所の時期に合わなくても、相撲を間近で楽しめるいちばんの方法。元プロ力士が歴史や儀式を説明してくれて、希望すれば土俵に上がって体験もできます。",
+        "en": "If your trip doesn't match a tournament, this is the best way to see sumo up close. Former pro wrestlers explain the history and rituals, and if you dare, you can step into the ring!"
+      },
+      "points": {
+        "es": [
+          "Disponible en español",
+          "Con exluchadores profesionales (1,5 horas)",
+          "Opción de subir al ring y probar"
+        ],
+        "ja": [
+          "スペイン語でも参加可能",
+          "元プロ力士によるショー（1.5時間）",
+          "希望すれば土俵で体験も"
+        ],
+        "en": [
+          "Also available in Spanish",
+          "With former pro wrestlers (1.5 hours)",
+          "Option to step into the ring"
+        ]
+      },
+      "note": {
+        "es": "Elige el idioma (español o inglés) al seleccionar la fecha y la hora.",
+        "ja": "日付・時間を選ぶときに、言語（スペイン語・英語など）を選べます。",
+        "en": "Choose the language (Spanish or English) when you pick the date and time."
+      }
+    },
+    {
+      "gyg_id": 556505,
+      "link": "https://gyg.me/gDllt37v",
+      "category": "en-osaka",
+      "featured": true,
+      "title": {
+        "es": "Abeno Harukas 300: Osaka a vista de pájaro",
+        "ja": "あべのハルカス300展望台 eチケット",
+        "en": "Abeno Harukas 300: Osaka from above"
+      },
+      "why": {
+        "es": "El mirador del rascacielos más alto de Osaka, con vistas de 360°. Ve al atardecer: ves la ciudad de día y cómo se enciende de noche en una sola visita.",
+        "ja": "大阪でいちばん高いビルの展望台から、360度のパノラマ。夕方に行けば、昼の景色と夜景を一度に楽しめます。",
+        "en": "The observatory of Osaka's tallest skyscraper, with 360° views. Go at sunset: you see the city by day and watch it light up at night in one visit."
+      },
+      "points": {
+        "es": [
+          "Vistas panorámicas de 360°",
+          "Entrada electrónica en el móvil",
+          "Junto a la estación de Tennōji"
+        ],
+        "ja": [
+          "360度のパノラマビュー",
+          "スマホで使えるeチケット",
+          "天王寺駅からすぐ"
+        ],
+        "en": [
+          "360° panoramic views",
+          "E-ticket on your phone",
+          "Right by Tennōji Station"
+        ]
       }
     }
   ]
