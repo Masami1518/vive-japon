@@ -109,7 +109,7 @@
       "gyg_id": 1125934,
       "link": "https://gyg.me/quyy1nMG",
       "category": "desde-osaka",
-      "featured": true,
+      "featured": false,
       "title": {
         "es": "Hiroshima en un día desde Osaka, en Shinkansen",
         "ja": "大阪から新幹線で行く、広島日帰りツアー",
@@ -147,7 +147,7 @@
       "gyg_id": 1378316,
       "link": "https://gyg.me/GDWQ0nve",
       "category": "desde-tokio",
-      "featured": true,
+      "featured": false,
       "title": {
         "es": "Los macacos de nieve de Nagano en un día desde Tokio",
         "ja": "東京発 長野・地獄谷の雪猿日帰りツアー",
@@ -223,7 +223,7 @@
       "gyg_id": 556505,
       "link": "https://gyg.me/gDllt37v",
       "category": "en-osaka",
-      "featured": true,
+      "featured": false,
       "title": {
         "es": "Abeno Harukas 300: Osaka a vista de pájaro",
         "ja": "あべのハルカス300展望台 eチケット",
