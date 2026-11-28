@@ -12,6 +12,11 @@
       "ja": "食・お酒",
       "en": "Food & drink"
     },
+    "desde-tokio": {
+      "es": "Excursiones desde Tokio",
+      "ja": "東京発の日帰りツアー",
+      "en": "Day trips from Tokyo"
+    },
     "desde-osaka": {
       "es": "Excursiones desde Osaka",
       "ja": "大阪発の日帰りツアー",
@@ -131,6 +136,44 @@
         "es": "Revisa en la página de la actividad qué incluye el precio (billetes de tren, comidas) y el punto de encuentro en Osaka.",
         "ja": "料金に含まれるもの（新幹線のきっぷ、食事など）と大阪での集合場所は、ツアーのページでご確認ください。",
         "en": "Check on the activity page what the price includes (train tickets, meals) and the meeting point in Osaka."
+      }
+    },
+    {
+      "gyg_id": 1378316,
+      "link": "https://gyg.me/GDWQ0nve",
+      "category": "desde-tokio",
+      "featured": true,
+      "title": {
+        "es": "Los macacos de nieve de Nagano en un día desde Tokio",
+        "ja": "東京発 長野・地獄谷の雪猿日帰りツアー",
+        "en": "Nagano snow monkeys: day trip from Tokyo"
+      },
+      "why": {
+        "es": "Ver a los macacos bañarse en aguas termales entre la nieve es una de esas imágenes que solo existen en Japón. Sales de Shinjuku, comes sukiyaki de ternera y vuelves a Tokio por la noche, sin preocuparte del transporte.",
+        "ja": "雪の中で温泉に入る猿は、日本でしか見られない光景。新宿から出発し、昼は牛すき焼き、夜には東京に戻れるので、移動の心配がいりません。",
+        "en": "Watching monkeys bathe in hot springs surrounded by snow is a sight you only get in Japan. You leave from Shinjuku, have beef sukiyaki for lunch and are back in Tokyo by night, no transport worries."
+      },
+      "points": {
+        "es": [
+          "Parque de los monos de Jigokudani",
+          "Almuerzo de sukiyaki de ternera",
+          "Ida y vuelta desde Shinjuku (unas 12 horas)"
+        ],
+        "ja": [
+          "地獄谷野猿公苑",
+          "昼食は牛すき焼き",
+          "新宿から往復（約12時間）"
+        ],
+        "en": [
+          "Jigokudani Monkey Park",
+          "Beef sukiyaki lunch",
+          "Round trip from Shinjuku (about 12 hours)"
+        ]
+      },
+      "note": {
+        "es": "Para ver nieve, lo ideal es de diciembre a marzo. Hasta el parque se camina un sendero de montaña: lleva calzado cómodo y ropa de abrigo en invierno.",
+        "ja": "雪景色を見るなら12月〜3月がおすすめ。公苑までは山道を歩くので、歩きやすい靴と、冬は防寒着をご用意ください。",
+        "en": "For snow, December to March is best. You walk a mountain trail to the park: bring comfortable shoes, and warm clothes in winter."
       }
     }
   ]
