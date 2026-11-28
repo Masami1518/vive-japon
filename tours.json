@@ -38,7 +38,7 @@
       "gyg_id": 873166,
       "link": "https://gyg.me/d5FTM6En",
       "category": "aventura",
-      "featured": true,
+      "featured": 1,
       "title": {
         "es": "Karting por Tokio: cruce de Shibuya y Torre de Tokio",
         "ja": "東京カートツアー：渋谷スクランブル交差点と東京タワー",
@@ -76,7 +76,7 @@
       "gyg_id": 927754,
       "link": "https://gyg.me/eQ5mTrHC",
       "category": "gastronomia",
-      "featured": true,
+      "featured": false,
       "title": {
         "es": "Cata de sake en Asakusa con un especialista",
         "ja": "浅草で専門家と楽しむ日本酒テイスティング",
@@ -114,7 +114,7 @@
       "gyg_id": 1125934,
       "link": "https://gyg.me/quyy1nMG",
       "category": "desde-osaka",
-      "featured": false,
+      "featured": 3,
       "title": {
         "es": "Hiroshima en un día desde Osaka, en Shinkansen",
         "ja": "大阪から新幹線で行く、広島日帰りツアー",
@@ -190,7 +190,7 @@
       "gyg_id": 1430490,
       "link": "https://gyg.me/DQ9iFKHi",
       "category": "en-osaka",
-      "featured": true,
+      "featured": 2,
       "title": {
         "es": "Sumo en Osaka con exluchadores profesionales",
         "ja": "大阪で元プロ力士の相撲ショー体験",
@@ -222,7 +222,8 @@
         "es": "Elige el idioma (español o inglés) al seleccionar la fecha y la hora.",
         "ja": "日付・時間を選ぶときに、言語（スペイン語・英語など）を選べます。",
         "en": "Choose the language (Spanish or English) when you pick the date and time."
-      }
+      },
+      "spanish": true
     },
     {
       "gyg_id": 556505,
