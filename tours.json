@@ -12,6 +12,11 @@
       "ja": "食・お酒",
       "en": "Food & drink"
     },
+    "en-tokio": {
+      "es": "Planes en Tokio",
+      "ja": "東京で楽しむ",
+      "en": "Things to do in Tokyo"
+    },
     "desde-tokio": {
       "es": "Excursiones desde Tokio",
       "ja": "東京発の日帰りツアー",
@@ -250,6 +255,82 @@
           "E-ticket on your phone",
           "Right by Tennōji Station"
         ]
+      }
+    },
+    {
+      "gyg_id": 1468531,
+      "link": "https://gyg.me/BY8zFmGX",
+      "category": "en-tokio",
+      "featured": false,
+      "title": {
+        "es": "Sumo en directo en Shinjuku (con bebida y foto)",
+        "ja": "新宿・歌舞伎町で本物の相撲ショー（ドリンク・写真付き）",
+        "en": "Live sumo show in Shinjuku (with drink and photo)"
+      },
+      "why": {
+        "es": "La forma más fácil de ver sumo en Tokio cualquier día del año. Combates reales a pocos metros, explicaciones de las tradiciones y una foto con los luchadores. Más de 1.300 opiniones lo avalan.",
+        "ja": "1年中いつでも東京で相撲を見られる、いちばん手軽な方法。目の前での本物の取組、伝統の解説、力士との記念撮影。1,300件以上の口コミで高評価です。",
+        "en": "The easiest way to see sumo in Tokyo any day of the year. Real bouts a few metres away, the traditions explained, and a photo with the wrestlers. Backed by 1,300+ reviews."
+      },
+      "points": {
+        "es": [
+          "Combates en directo a pocos metros",
+          "Bebida y foto con los luchadores incluidas",
+          "En Kabukichō, Shinjuku (75 minutos)"
+        ],
+        "ja": [
+          "目の前で本物の取組",
+          "ドリンクと力士との写真付き",
+          "新宿・歌舞伎町（75分）"
+        ],
+        "en": [
+          "Live bouts a few metres away",
+          "Drink and photo with the wrestlers included",
+          "In Kabukichō, Shinjuku (75 minutes)"
+        ]
+      },
+      "note": {
+        "es": "El presentador habla en inglés. Si prefieres español, mira también el espectáculo de sumo de Osaka.",
+        "ja": "司会は英語です。スペイン語希望の方は大阪の相撲ショーもご覧ください。",
+        "en": "The MC speaks English. If you prefer Spanish, see the Osaka sumo show too."
+      }
+    },
+    {
+      "gyg_id": 989591,
+      "link": "https://gyg.me/SO6AEp3m",
+      "category": "desde-tokio",
+      "featured": false,
+      "title": {
+        "es": "Monte Fuji en un día desde Tokio",
+        "ja": "東京発 富士山日帰りツアー",
+        "en": "Mt Fuji day trip from Tokyo"
+      },
+      "why": {
+        "es": "La excursión clásica para ver el Fuji de cerca: la pagoda de Arakurayama con el monte detrás, los manantiales de Oshino Hakkai y el lago Kawaguchi. Más de 7.000 opiniones y un precio muy accesible.",
+        "ja": "富士山を間近で見る定番ツアー。新倉山浅間公園の五重塔と富士山、忍野八海、河口湖をめぐります。口コミ7,000件以上で、料金も手頃です。",
+        "en": "The classic trip to see Fuji up close: Arakurayama pagoda with the mountain behind, the Oshino Hakkai springs and Lake Kawaguchi. 7,000+ reviews and a very accessible price."
+      },
+      "points": {
+        "es": [
+          "Pagoda de Arakurayama con el Fuji de fondo",
+          "Oshino Hakkai y lago Kawaguchi",
+          "Salida desde Tokio (unas 10 horas)"
+        ],
+        "ja": [
+          "新倉山浅間公園の五重塔と富士山",
+          "忍野八海と河口湖",
+          "東京発（約10時間）"
+        ],
+        "en": [
+          "Arakurayama pagoda with Fuji behind",
+          "Oshino Hakkai and Lake Kawaguchi",
+          "Departure from Tokyo (about 10 hours)"
+        ]
+      },
+      "note": {
+        "es": "El Fuji no siempre se ve: depende del tiempo. Los días despejados de otoño e invierno suelen ser los mejores.",
+        "ja": "富士山は天気によって見えない日もあります。晴れた秋冬の日が特におすすめです。",
+        "en": "Fuji isn't always visible: it depends on the weather. Clear autumn and winter days are usually best."
       }
     }
   ]
